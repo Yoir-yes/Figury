@@ -21,7 +21,7 @@ public class Main {
 
         for (Figure f : figures) {
             System.out.println(" ");
-            System.out.println(f.getType());
+            System.out.println(f.Name());
             System.out.println("Pole: " + f.getArea());
             System.out.println("Obówd: " + f.getPerimeter());
         }
