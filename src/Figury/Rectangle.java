@@ -19,7 +19,7 @@ public class Rectangle implements Figure{
     }
 
     @Override
-    public String getType() {
+    public String Name() {
         return "Prostokąt";
     }
 }
