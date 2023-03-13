@@ -17,7 +17,7 @@ public class Circle implements Figure{
     }
 
     @Override
-    public String getType() {
+    public String Name() {
         return "Koło";
     }
 }
