@@ -19,7 +19,7 @@ public class Triangle implements Figure{
     }
 
     @Override
-    public String getType() {
+    public String Name() {
         return "Trójkąt";
     }
 }
